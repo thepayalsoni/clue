@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "789142655964-ec4o2qdmkv6oo5o7ck2ggq1amap56g5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payalsoni.clue",
+            "certificate_hash": "0870ae3a7f3ab56b096f854cd67acc59e4484533"
+          }
+        },
+        {
           "client_id": "789142655964-dhajjqia4asnc0b3ec7mpieua8ls3dai.apps.googleusercontent.com",
           "client_type": 3
         }
